@@ -186,6 +186,14 @@
     display: flex;
     justify-content: space-between;
   }
+  .google-link {
+    color: #918e9b;
+    font-size: 0.85rem;
+    margin: 0 auto;
+  }
+  .btn {
+    margin-bottom: 10px;
+  }
 }
 
 
