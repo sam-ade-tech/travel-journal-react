@@ -176,17 +176,15 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
   }
   .title-row {
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 15px;
   }
   .time-of-visitation{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
   }
 }
 
