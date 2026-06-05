@@ -9,7 +9,7 @@ export default [
     country: "USA",
     mapLink: "https://maps.google.com/?q=New+York+City",
     googleLink: "https://www.google.com/search?q=new+york+city&oq=new+york+city&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDwgBEC4YQxixAxiABBiKBTIMCAIQABhDGIAEGIoFMgcIAxAuGIAEMgcIBBAAGIAEMgcIBRAuGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINjM4MWowajmoAgawAgHxBWd2ae2RZnr4&sourceid=chrome&ie=UTF-8",
-    dates: "Jan 2026 - Feb 2026",
+    dates: "Jan - Feb, 2026.",
     text: "NYC is known as the city that never sleeps."
   },
   {
@@ -22,7 +22,7 @@ export default [
     country: "Japan",
     mapLink: "https://maps.google.com/?q=Tokyo+City",
     googleLink: "https://www.google.com/search?q=tokyo+city&oq=tokyo+city&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyDQgCEC4YrwEYxwEYgAQyBwgDEC4YgAQyBwgEEC4YgAQyBwgFEAAYgAQyEggGEC4YFBivARjHARiHAhiABDIMCAcQABgUGIcCGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINjIwOGowajmoAgawAgHxBW58Vv4kCDGI&sourceid=chrome&ie=UTF-8",
-    dates: "Mar 2026 - Apr 2026",
+    dates: "Mar - Apr, 2026.",
     text: "Tokyo is a blend of modern technology and tradition."
   },
   {
@@ -35,7 +35,7 @@ export default [
     country: "France",
     mapLink: "https://maps.google.com/?q=Paris+City",
     googleLink: "https://www.google.com/search?q=paris+city&oq=paris&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBggCEEUYOTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyDwgFEAAYQxixAxiABBiKBTIMCAYQLhhDGIAEGIoFMhIIBxAuGEMYxwEY0QMYgAQYigUyDAgIEC4YQxiABBiKBTIMCAkQABhDGIAEGIoF0gEIMzI1N2owajmoAgawAgHxBdv_vh-WeArn8QXb_74flngK5w&sourceid=chrome&ie=UTF-8",
-    dates: "May 2026 - Jun 2026",
+    dates: "May - Jun, 2026.",
     text: "Paris is famous for art, fashion, and the Eiffel Tower."
   }
 ];

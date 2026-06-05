@@ -35,7 +35,7 @@ export default [
       country: "Middle East",
       mapLink: "https://maps.google.com/?q=Arabian+Desert",
       googleLink: "https://www.google.com/search?q=arrabian+desert&oq=arrabian+desert&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAuGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDgwOTZqMGo5qAIGsAIB8QV_bWHvwBRsfw&sourceid=chrome&ie=UTF-8",
-      dates: "Jun 2026 - Jul 2026",
+      dates: "Jun - Jul, 2026.",
       text: "A vast desert covering much of the Arabian Peninsula."
     }
   ];

@@ -9,7 +9,7 @@ export default [
       country: "Maldives",
       mapLink: "https://maps.google.com/?q=Maldives+Beach",
       googleLink: "https://www.google.com/search?q=maldives+beach&oq=maldives+beach&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTEyNTUyajBqOagCBrACAfEFyvMaK2DnECfxBcrzGitg5xAn&sourceid=chrome&ie=UTF-8",
-      dates: "Jan 2026 - Mar 2026",
+      dates: "Jan - Mar, 2026.",
       text: "Crystal clear waters and white sand beaches make Maldives a tropical paradise."
     },
     {
@@ -35,7 +35,7 @@ export default [
       country: "USA",
       mapLink: "https://maps.google.com/?q=Hawaii+Beach",
       googleLink: "https://www.google.com/search?q=hawaii+beach&oq=hawali+be&gs_lcrp=EgZjaHJvbWUqDQgBEAAYkQIYgAQYigUyBggAEEUYOTINCAEQABiRAhiABBiKBTINCAIQABiRAhiABBiKBTINCAMQABiRAhiABBiKBTINCAQQABiRAhiABBiKBTIHCAUQABiABDILCAYQABgKGAsYgAQyCwgHEAAYChgLGIAEMgsICBAAGAoYCxiABDILCAkQABgKGAsYgATSAQg5NDAyajBqOagCALACAA&sourceid=chrome&ie=UTF-8",
-      dates: "Jun 2026 - Jul 2026",
+      dates: "Jun - Jul, 2026.",
       text: "Hawaii offers volcanic landscapes and beautiful beaches."
     }
   ];
