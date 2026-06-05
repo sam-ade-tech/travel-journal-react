@@ -1,0 +1,168 @@
+* {
+  box-sizing: border-box;
+}
+  html, body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #fafafa;
+  color: #2b283a;
+  
+}
+.header {
+  background: #f55a5a;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.header h1 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+
+}
+.header p {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-top: 0;
+}
+.globe-icon {
+  margin-right: 7px;
+  font-size: 1.3rem;
+}
+
+.card-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.heading {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.card-container img {
+  max-width: 400px;
+}
+.card-list {
+  display: flex;
+  gap: 25px;
+  padding: 35px 0 35px 35px;
+  margin-bottom: 35px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.card-container:last-child {
+  border-bottom: none;
+}
+
+.card-list img {
+  width: 220px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 10px;
+  flex-shrink: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  
+}
+.card-list > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.text-container {
+  display: flex;
+  flex-direction: column;
+  /* gap: 50px; */
+}
+.title-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.btn {
+  text-decoration: none;
+  padding: 10px 16px;
+  border-radius: 10px;
+  background: #f55a5a;
+  color: #fff;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #fff;
+  color: #f55a5a;
+}
+.time-of-visitation{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+
+}
+.location-text {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+.location {
+  color: #f55a5a;
+  font-size: 1rem;
+  margin: 0 5px;
+}
+.location-row {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.location-row span {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
+}
+.google-link {
+  color: #918e9b;
+  font-size: 0.85rem;
+}
+.google-link:hover {
+  color: #f55a5a;
+}
+.travel-date {
+  font-weight: 700;
+}
+.about-text {
+  max-width: 650px;
+  line-height: 1.7;
+  color: #555;
+}
+@media (max-width: 768px) {
+  .card-list{
+    flex-direction: column;
+  }
+  .card-list img {
+    width: 100%;
+    height: 250px;
+  }
+  .card-list h2 {
+    font-size: 1.6rem;
+  }
+}
+.footer {
+  background: #f55a5a;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+.footer p {
+  margin: 5px 0;
+}
+.footer small {
+  display: block;
+  margin-top: 10px;
+  opacity: 0.8;
+}
